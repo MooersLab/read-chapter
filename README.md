@@ -256,6 +256,13 @@ rename-chapter/
 └── LICENSE                    # GPL-3.0-or-later
 ```
 
+## Status
+
+- Code works are promised.
+- All 33 tests passed.
+- Coverage is not working on my system.
+
+
 ## Contributing
 
 Contributions are welcome.  Please open an issue to discuss significant changes before submitting a pull request.
