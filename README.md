@@ -275,3 +275,18 @@ Contributions are welcome.  Please open an issue to discuss significant changes 
 ## License
 
 This project is licensed under the GNU General Public License v3.0.  See [LICENSE](LICENSE) for details.
+
+## Update history
+
+|Version      | Changes                                                                                                                                  | Date                 |
+|:------------|:---------------------------------------------------------------------------------------------------------------------------------------- |:---------------------|
+| Version 0.1 |   Added badges, funding, and update table.  Initial commit of working code.                                           | 2026 March 4      |
+
+
+## Sources of funding
+
+- NIH: R01 CA242845.
+- NIH: R01 AI088011.
+- NIH: P30 CA225520 (PI: R. Mannel).
+- NIH: P20 GM103640 and P30 GM145423 (PI: A. West).
+
