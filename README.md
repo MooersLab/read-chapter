@@ -5,7 +5,7 @@
 
 # rename-chapter
 
-> Replace LaTeX and Org-mode include filenames with chapter titles and rename the files on disk — all in one keystroke in Emacs, where the magic happens.
+> Replace LaTeX and Org-mode include filenames with chapter titles and rename the files on disk — all in one keystroke in Emacs, of course, the ultimate text editor where magic happens.
 
 ## Table of Contents
 
