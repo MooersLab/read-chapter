@@ -9,7 +9,7 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
+- [Problem addressed and its solution](#problem-addressed-and-its-solution)
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
@@ -21,7 +21,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Overview
+## Problem addressed and its solution
 
 When you split a book or thesis into one file per chapter, the filenames in your `\include{}`, `\input{}`, or `#+INCLUDE:` statements quickly drift out of sync with the actual chapter titles.  **rename-chapter** fixes that: place your cursor on the include line, call `M-x rename-chapter`, and the package will
 
@@ -258,10 +258,10 @@ rename-chapter/
 
 ## Status
 
-- Code works are promised.
-- All 33 tests passed.
-- Coverage is not working on my system.
-
+- Alpha
+- Not in MELPA yet.
+- Code works.
+- All 33 tests pass.
 
 ## Contributing
 
