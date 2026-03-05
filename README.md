@@ -25,11 +25,11 @@
 
 When you split a book or thesis into one file per chapter, the filenames in your `\include{}`, `\input{}`, or `#+INCLUDE:` statements quickly drift out of sync with the actual chapter titles.  **rename-chapter** fixes that: place your cursor on the include line, call `M-x rename-chapter`, and the package will
 
-1. open the referenced `.tex` or `.org` file,
-2. extract the `\chapter{}` title (or the first Org heading, or `#+TITLE:`),
-3. strip whitespace from the title,
-4. rename the file on disk, and
-5. update the include statement in your buffer.
+1. Open the referenced `.tex` or `.org` file,
+2. Extract the `\chapter{}` title (or the first Org heading, or `#+TITLE:`),
+3. Strip whitespace from the title,
+4. Rename the file on disk, and
+5. Update the include statement in your buffer.
 
 ## Features
 
